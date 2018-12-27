@@ -1,7 +1,7 @@
 # Bootcamp layout
 
 
-![DS Inforgraphic](./src/dsinfographic.pn)
+![DS Inforgraphic](./src/dsinfographic.png)
 
 1. __What is data?__
 
