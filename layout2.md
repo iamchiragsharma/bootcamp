@@ -10,14 +10,14 @@ For our fellows who are new to this coding relm please consult the following ima
 We used a google form to collect data from you (ahem! ahem! Data Science again!!) and we encountered following issues:
 
 Around 70% of the students haven't used python.
->No issue we have decided to put a seprate session for python exclusively. 
+> **No issue we have decided to put a seprate session for python exclusively.** 
 
->Yes we know we are awesome! but thanks anyways.
+> **Yes we know we are awesome! but thanks anyways.**
 
 People have near to zero knowledge of discrete mathematics:
->If numbers make sense to you in the way Game of Thrones makes then you are a rockstar dude. God Speed to you.
+> **If numbers make sense to you in the way Game of Thrones makes then you are a rockstar dude. God Speed to you.**
 
->If they don't then don't you worry we will work things out. There is always a first time my friend.
+> **If they don't then don't you worry we will work things out. There is always a first time my friend.**
 
 
 
