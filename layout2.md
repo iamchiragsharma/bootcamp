@@ -1,9 +1,6 @@
-<center> <h2> __Data Science Boot Camp (begins 3 Jan)__ </center>
----
----
+# Data Science Boot Camp (begins 3 Jan)
 
-<center>
-<h3>Team Hello World is going to organise it's first ever Boot Camp upcoming January. This time we are focusing on one of the hottest topic of the industry <b>DATA SCIENCE</b>. 
+Team Hello World is going to organise it's first ever Boot Camp upcoming January. This time we are focusing on one of the hottest topic of the industry DATA SCIENCE. 
 
 For our fellows who are new to this coding relm please consult the following image for a nice and quick overview (trust me):
 
@@ -11,7 +8,6 @@ For our fellows who are new to this coding relm please consult the following ima
 
 
 We used a google form to collect data from you (ahem! ahem! Data Science again!!) and we encountered following issues:
-<b>
 
 Around 70% of the students haven't used python.
 >No issue we have decided to put a seprate session for python exclusively. 
@@ -23,7 +19,6 @@ People have near to zero knowledge of discrete mathematics:
 
 >If they don't then don't you worry we will work things out. There is always a first time my friend.
 
-</b>
 
 
 
