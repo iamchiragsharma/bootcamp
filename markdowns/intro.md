@@ -1,8 +1,8 @@
 # Data Science Boot Camp (begins 3 Jan)
 
-Team Hello World is going to organise it's first ever Boot Camp upcoming January. This time we are focusing on one of the hottest topic of the industry DATA SCIENCE. 
+__Team Hello World is going to organise it's first ever Boot Camp upcoming January. This time we are focusing on one of the hottest topic of the industry DATA SCIENCE.__
 
-For our fellows who are new to this coding relm please consult the following image for a nice and quick overview (trust me):
+For our fellows who are new to this coding relm please click the image below (Psst! It's a video) for a nice and quick overview (trust me):
 
 [![Image not clear because it was supercool](http://img.youtube.com/vi/X3paOmcrTjQ/0.jpg)](http://www.youtube.com/watch?v=X3paOmcrTjQ "Data Science Video")
 
